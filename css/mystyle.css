@@ -1,0 +1,59 @@
+body{
+  
+  font-family: 'Varela Round', sans-serif;
+  background:#5C5654;
+}
+ul{margin:0;}
+li{list-style:none;}
+img{width:100%;}
+.header{
+  width:100%;
+  margin:0px auto 0;
+  padding-top:10px;
+  background:#ffffff;
+}
+h1{font-size:28px;line-height:30px;color:#000000;margin:0;}
+.clear{margin:0;padding:0;clear:both;}
+.floatL{float:left;}
+.floatR{float:right;}
+.logoDiv{width:20%;margin-left:2%;}
+.logo{width:40%;}
+.heading{width:50%;margin:13px 0 2% 0;}
+.nav{width:37%;margin:30px auto 0;}
+.header ul li{
+  display:inline-block;
+  list-style:none;
+float:left;width:15%;}
+ ul li a{font-size:14px;line-height:16px;text-decoration:none;color:#5C5654;}
+ ul li a:hover{text-decoration:underline;font-weight:bold;}
+.main{width:92%;margin:0 auto;padding-top:30px;}
+h2{font-size:22px;line-height:24px;color:#ffffff;margin-bottom:20px;}
+p{font-size:18px;color:#ffffff;margin-bottom:10px;}
+a{text-decoration:underline;font-size:14px;line-height:16px;color:#ffffff;}
+a.link{margin-right:3%;}
+.div1{padding-bottom:20px;}
+.div2{padding-top:20px;margin-bottom:30px;}
+.subdiv{width:33%;}
+.Image{width:80%;margin:0 auto 15px;}
+.Image img{height:200px;}
+.textDiv{width:80%;margin:0 auto;}
+.textDiv p{text-align:center;}
+h3{font-size:18px;line-height:20px;color:#ffffff;text-align:center;}
+.Hero{width:75%;position:relative;
+margin:40px auto 0;}
+.pl1{width: 32%;
+margin: 6px 0.5% 0 0.5%;}
+.pl1 img{height:200px;border:1px solid #E2DEDD;border-radius: 25px;border-radius: 12px;}
+.branch{width:30%;}
+.loc{width:40%;padding-top: 10px;}
+label{font-size:18px;color:#ffffff;}
+.desc{padding-top:20px;text-align:center;}
+.map{width: 8%;float: right;margin-right: 21%;}
+.div4{margin-top:20px;}
+.div4 h3{text-align:left;}
+.leftDiv{width:40%;}
+.rightDiv{width:36%;margin:0px 0 0 0;}
+.footer{background:#ffffff;margin:10px 0 0;padding-top:40px;}
+.footer p{color:#5C5654;}
+.footer span{display:inline-block;width:5%;padding-left:2%;}
+.footer ul li{display:inline;width:12%;}
